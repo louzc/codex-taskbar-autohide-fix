@@ -1,0 +1,9 @@
+**/events.log
+**/status.json
+**/installation.json
+*.lnk
+obj/
+.vs/
+*.user
+*.pdb
+*.zip
